@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kayasema
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning HTML,CSS, JavaScript, PHP, Reactjs, JQuery,Python and Bootsrap
+- 👀 I’m interested in Web Developing!
+- 🌱 I’m currently learning HTML,CSS, JavaScript, PHP, Reactjs, JQuery,Python and Bootsrap...
 
 
 <!---
